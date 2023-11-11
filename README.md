@@ -1,2 +1,2 @@
-# simple-matching-engine
-Simple Matching Engine in C++20
+# Simple Matching Engine
+> Simple Matching Engine in C++20
