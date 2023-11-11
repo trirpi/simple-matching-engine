@@ -1,0 +1,16 @@
+# Formatting:
+#
+# Add Order
+# ADD <FIRM> <STOCK> <ID> <SIDE> <QTY> <PRICE>;
+#
+# Cancel Order:
+# CAN <FIRM> <STOCK> <ID>;
+#
+# Modify Order:
+# MOD <FIRM> <STOCK> <ID> <SIDE> <QTY> <PRICE>
+#
+ADD 8 APP 1 BUY 1 2
+ADD 5 APP 2 BUY 2 3
+ADD 4 APP 3 BUY 100 1
+ADD 7 APP 4 SEL 4 4
+ADD 9 APP 5 SEL 4 3
